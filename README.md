@@ -22,6 +22,8 @@ This list contains a variety of resources collected by us or provided to us by t
   - [Depression](#depression)
   - [Autism](#autism)
 - [Books](#books)
+  - [General](#general)
+  - [Autism](#autism)
 
 ## Articles
 
@@ -52,6 +54,10 @@ Articles, posts and papers on mental health.
 
 Books that have mental health and self-care as the main theme.
 
+### General
 * [Mental Health in Tech: Guidelines for Executives and HR Professionals](https://leanpub.com/osmi-guidelines-for-employers)
 * [The Power of Neurodiversity: Unleashing the Advantages of Your Differently Wired Brain](https://www.amazon.com/Power-Neurodiversity-Unleashing-Advantages-Differently/dp/0738215244)
+
+### Autism
+* [Neurotribes: The Legacy of Autism and the Future of Neurodiversity](https://www.amazon.com/Neurotribes-Legacy-Autism-Future-Neurodiversity)
 
