@@ -18,6 +18,7 @@ This list contains a variety of resources collected by us or provided to us by t
 ## Contents
 
 - [Articles](#articles)
+  - [General](#general)
   - [Depression](#depression)
   - [Autism](#autism)
 - [Books](#books)
@@ -25,6 +26,8 @@ This list contains a variety of resources collected by us or provided to us by t
 ## Articles
 
 Articles, posts and papers on mental health.
+
+### General
 
 * [21 Genius Ways To Track Your Mental Health](https://www.buzzfeed.com/annaborges/mental-health-trackers)
 * [How To Stop Overthinking Everything, According To Therapists](https://www.buzzfeed.com/ryanhowes/how-to-stop-ruminating)
