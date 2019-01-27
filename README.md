@@ -22,8 +22,8 @@ This list contains a variety of resources collected by us or provided to us by t
   - [Depression](#depression)
   - [Autism](#autism)
 - [Books](#books)
-  - [General](#general)
-  - [Autism](#autism)
+  - [General](#general-1)
+  - [Autism](#autism-1)
 
 ## Articles
 
