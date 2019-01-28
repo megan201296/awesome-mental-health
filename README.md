@@ -60,4 +60,5 @@ Books that have mental health and self-care as the main theme.
 
 ### Autism
 * [Neurotribes: The Legacy of Autism and the Future of Neurodiversity](https://www.amazon.com/Neurotribes-Legacy-Autism-Future-Neurodiversity)
+* [An Employer’s Guide to Managing Professionals on the Autism Spectrum](https://www.amazon.com/gp/product/1785927450/)
 
