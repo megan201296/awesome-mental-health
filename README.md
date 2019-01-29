@@ -17,15 +17,15 @@ This list contains a variety of resources collected by us or provided to us by t
 
 ## Contents
 
-- [Articles](#mental-health)
-  - [General](#general)
+- [Articles](#articles)
+  - [Mental Health](#mental-health)
   - [Neurodiversity](#neurodiversity)
   - [ADHD](#adhd)
   - [Autism](#autism)
   - [Depression](#depression)
   - [Dyslexia](#dyslexia)
 - [Books](#books)
-  - [General](#mental-health-1)
+  - [Mental Health](#mental-health-1)
   - [Neurodiversity](#neurodiversity-1)
   - [Autism](#autism-1)
 - [Talks](#talks)
