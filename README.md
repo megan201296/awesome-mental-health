@@ -28,7 +28,7 @@ This list contains a variety of resources collected by us or provided to us by t
   - [General](#mental-health-1)
   - [Neurodiversity](#neurodiversity-1)
   - [Autism](#autism-1)
- - [Talks](#talks)
+- [Talks](#talks)
   - [Neurodiversity](#neurodiversity-2)
 
 ## Articles
