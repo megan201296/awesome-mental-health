@@ -64,6 +64,7 @@ Articles, posts and papers on mental health.
 * [How to Succeed in Business with ADHD](https://www.additudemag.com/adhd-entrepreneur-stories-jetblue-kinkos-jupitermedia/)
 * [Top 10 Advantages of ADHD In A High Tech Career](https://adultaddstrengths.com/2006/02/09/top-10-advantages-of-add-in-a-high-tech-career/)
 * [Cybersecurity, ADHD, and Alan Turing](https://medium.com/@AK3R303_63416/cybersecurity-adhd-and-alan-turing-9ba359034e33)
+* [ADHD or DevOps?](https://jschalz.github.io/posts/adhd-or-devops/)
 
 ### Autism
 * [The National Autistic Society: Best practice adjustments](https://www.autism.org.uk/professionals/employers/sign-up/adjustments.aspx)
