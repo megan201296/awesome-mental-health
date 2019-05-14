@@ -68,6 +68,8 @@ Articles, posts and papers on mental health.
 
 ### Autism
 * [The National Autistic Society: Best practice adjustments](https://www.autism.org.uk/professionals/employers/sign-up/adjustments.aspx)
+* [Overview of “An Employer’s Guide to Managing Professionals on the Autism Spectrum” Part One](https://medium.com/@megansroddie/overview-of-an-employers-guide-to-managing-professionals-on-the-autism-spectrum-part-one-d880dc313130)
+* [Overview of “An Employer’s Guide to Managing Professionals on the Autism Spectrum” Part Two](https://medium.com/@megansroddie/overview-of-an-employers-guide-to-managing-professionals-on-the-autism-spectrum-part-two-352b9fd33094)
 
 ### Depression
 * [A Scientist’s Primer on Depression](https://www.wendymarieingram.com/2018/11/01/a-scientists-primer-on-depression/)
